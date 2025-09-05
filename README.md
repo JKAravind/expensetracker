@@ -14,13 +14,7 @@ A mobile expense tracker app built with **React Native and Expo**, allowing user
 * Visualize monthly spending by category with a Pie Chart.
 * Persistent storage using **AsyncStorage**.
 
-## Screenshots
 
-![Add Expense Modal](screenshots/add_expense.png)
-![Expenses List](screenshots/expenses_list.png)
-![Pie Chart](screenshots/pie_chart.png)
-
-*(Add your own screenshots here)*
 
 ## Installation
 
