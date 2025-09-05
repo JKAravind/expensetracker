@@ -180,7 +180,6 @@ const pieData = categories
         </TouchableOpacity>
       </View>
 
-      {/* Expenses List */}
       <FlatList
         style={{ marginTop: 10 }}
         data={Object.entries(groupedExpenses)}
